@@ -8,6 +8,6 @@ entries:
     name: binhack
     type: application
     urls:
-    - https://raw.githubusercontent.com/manish2296lion/binhack/master/mhackbin.tgz
+    - https://raw.githubusercontent.com/manish2296lion/binhack/master/mhackhelm.tgz
     version: "1.3.0"
 generated: "2022-05-26T14:59:11.656550034-04:00"
